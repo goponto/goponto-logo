@@ -4,7 +4,7 @@ Logomarca para projeto goponto.
 
 ## Demo
 
-![goponto-logo](https://github.com/goponto/goponto-logo/raw/master/goponto-gopher.png | width=400)
+![goponto-logo](https://github.com/goponto/goponto-logo/raw/master/goponto-gopher.png)
 
 ## ToDo
 
