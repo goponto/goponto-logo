@@ -1,3 +1,10 @@
-## Go Ponto 
+## Logo Go Ponto
 
-Logomarca do projeto.
+Logomarca para projeto goponto.
+
+## ToDo
+
+- [X] - Criar logomarca do projeto
+- [ ] - Icons
+
+## That's All Folks! :-)
