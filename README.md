@@ -2,9 +2,10 @@
 
 Logomarca para projeto goponto.
 
-## ToDo
+## Imagens
 
-- [X] - Criar logomarca do projeto
-- [ ] - Icons
+<img src="https://github.com/goponto/goponto-logo/raw/master/goponto-gopher.png" width="200px">
 
-## That's All Folks! :-)
+## Icon
+
+<img src="https://github.com/goponto/goponto-logo/raw/master/goponto-ico.png" width="50px">
