@@ -8,7 +8,8 @@ Logomarca para projeto goponto.
 
 ## ToDo
 
-- [X] - Criar logomarca do projeto
+- [ ] - Criar logomarca do projeto
 - [ ] - Icons
+
 
 ## That's All Folks! :-)
